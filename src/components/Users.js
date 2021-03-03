@@ -12,7 +12,7 @@ class Users extends Component {
       <div>
         <h2>Users</h2>
         <p> 
-          {`${greetingMessage} User ${id}, this is my awesome Users component`}
+          {`${greetingMessage} user ${id}, this is my awesome Users component`}
         </p>
       </div>
     );
